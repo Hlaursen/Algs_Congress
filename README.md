@@ -1,3 +1,3 @@
 # Algs_Congress
 
-fdsfds
+Repository for Congress assignment in Algorithms and Data structures course
